@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("김은결");
 		World.run();
 		World.run2();
+		Hello.run();
 
 	}
 
